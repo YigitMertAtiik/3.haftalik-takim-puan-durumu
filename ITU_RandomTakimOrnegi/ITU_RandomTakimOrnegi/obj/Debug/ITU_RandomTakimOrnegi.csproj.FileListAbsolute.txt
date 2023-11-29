@@ -1,0 +1,12 @@
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\bin\Debug\ITU_RandomTakimOrnegi.exe.config
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\bin\Debug\ITU_RandomTakimOrnegi.exe
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\bin\Debug\ITU_RandomTakimOrnegi.pdb
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.csproj.AssemblyReference.cache
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.csproj.SuggestedBindingRedirects.cache
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.Form1.resources
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.Form2.resources
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.Properties.Resources.resources
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.csproj.GenerateResource.cache
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.exe
+C:\Users\atikm\source\repos\ITU_RandomTakimOrnegi\ITU_RandomTakimOrnegi\obj\Debug\ITU_RandomTakimOrnegi.pdb
